@@ -22,7 +22,7 @@ Payment failures were climbing with no monitoring in place and leadership had no
 
 ## Revenue Forecasting Dashboard
 
-images/Revenue_forecast_dashboard.png
+![Revenue Forecasting Dashboard](images/revenue.png)
 ---
 
 ## Methodology
