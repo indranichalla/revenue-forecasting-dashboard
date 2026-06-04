@@ -51,7 +51,7 @@ Payment failures were climbing with no monitoring in place and leadership had no
 
 31.2% of payments fail every month, churn is identical across every customer segment at 34.5%, and $4.1M in contract value requires manual renewal each cycle — the business has been running blind on all three of its most critical risk areas. Here is what each chart found and what should be done about it.
 
-images/revenue.png
+![Revenue Forecasting Dashboard](images/Revenue_forecast_dashboard.png)
 
 ---
 
