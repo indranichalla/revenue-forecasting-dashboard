@@ -103,8 +103,5 @@ $4,090,434 in contract value — over half the total — sits in contracts requi
 - Build a churn prediction model using customer tenure, payment history and contract value to identify at-risk customers early
 - Launch a structured auto-renew conversion campaign targeting the $4.09M in manually renewed contracts before the next renewal cycle
 
----
 
-## About
 
-Analyses where revenue is being lost
