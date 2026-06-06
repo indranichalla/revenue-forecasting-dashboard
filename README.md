@@ -4,7 +4,7 @@ A subscription-based software business generating $4,998,230 in revenue over 3 y
 
 🔗 [View Dashboard (Tableau Public)](https://public.tableau.com/views/RevenueforecastingDashboard_17806401210490/RevenueForecastingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🔗 [View Notebook (Hex)](#)
+🔗 [View the Hex App](https://app.hex.tech/019994a3-9e3c-7008-be8e-4d1e5f5aada2/hex/Project-Revenue-Forecasting-033SxaIUzqLIrSLOntXZaX/3/debug/019e9bdc-bf99-775f-8f73-cca8b7eab91b?view=app)
 
 ---
 
